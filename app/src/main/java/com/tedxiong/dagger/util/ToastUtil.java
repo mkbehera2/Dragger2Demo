@@ -1,4 +1,4 @@
-package com.tedxiong.dagger;
+package com.tedxiong.dagger.util;
 
 import android.content.Context;
 import android.widget.Toast;
