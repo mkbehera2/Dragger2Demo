@@ -5,15 +5,16 @@ package com.tedxiong.dagger.mvp.contract;
  * in com.tedxiong.dagger.mvp.contract
  */
 public interface MainContract {
-    public interface View {
+
+    interface View {
 
     }
 
-    public interface Presenter {
+    interface Presenter {
 
     }
 
-    public interface Model {
+    interface Model {
 
     }
 }
