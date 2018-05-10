@@ -5,4 +5,5 @@ package com.tedxiong.dagger.bean;
  * in com.tedxiong.dagger.bean
  */
 public class Student {
+    //many code
 }

@@ -34,6 +34,7 @@ public interface MainActivitySubComponent extends AndroidInjector<MainActivity> 
 
         @Provides
         String provideName() {
+
             return MainActivity.class.getName();
         }
 

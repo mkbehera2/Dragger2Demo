@@ -2,7 +2,6 @@ package com.tedxiong.dagger.di.module;
 
 import android.app.Activity;
 
-import com.tedxiong.dagger.di.component.MainActivitySubComponent;
 import com.tedxiong.dagger.di.component.SecondActivitySubComponent;
 import com.tedxiong.dagger.mvp.view.SecondActivity;
 

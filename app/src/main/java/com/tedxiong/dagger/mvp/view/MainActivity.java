@@ -1,5 +1,6 @@
 package com.tedxiong.dagger.mvp.view;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -39,6 +40,7 @@ public class MainActivity extends BaseActivity implements MainContract.View {
     @BindView(R.id.tv_content)
     TextView tvContent;
 
+    @SuppressLint("SetTextI18n")
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
